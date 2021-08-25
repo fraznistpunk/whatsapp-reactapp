@@ -1,6 +1,6 @@
 # WhatsApp Clone with React JS, FireBase and Google Authentication
 
-##Tech Used
+## Tech Used
 
 - React js
 - Firebase Firestore Realtime DB
